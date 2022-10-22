@@ -8,10 +8,10 @@ Xbox emulator for [SNES USB controller](http://alii.pub/6hw4yd). Works based on 
 ![](https://user-images.githubusercontent.com/9499881/197362614-fee74a6d-0f46-4421-95ff-56c5b3ab57e4.png)
 
 # Working modes
-Switching emulation from stick to DPAD and back is done by pressing `Select + DPAD ←` or `ALT+A`.
+Switching emulation from stick to DPAD and back is done by pressing `Select + DPAD ←` or `ALT + A`.
 
 
-Switching emulation from triggers to bumpers and back is done by pressing `Select + DPAD ↑` or `ALT+Q`.
+Switching emulation from triggers to bumpers and back is done by pressing `Select + DPAD ↑` or `ALT + Q`.
 
 
 The default modes can be configured in the `Config.ini` configuration file.
@@ -24,7 +24,7 @@ The default modes can be configured in the `Config.ini` configuration file.
 
 
 
-Instead of an application, you can also use libraries for XInput Injector:
+Instead of an application, you can also use libraries for XInputInjector:
 
 1. [Download XInputInjector](https://github.com/r57zone/X360Advance/releases/) and extract.
 2. Unpack the contents of the `SNES.USB.Controller.XInput.Libraries.zip` archive into the `Libraries` folder.
