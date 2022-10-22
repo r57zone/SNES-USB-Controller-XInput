@@ -27,7 +27,7 @@ The default modes can be configured in the `Config.ini` configuration file.
 Instead of an application, you can also use libraries for XInputInjector:
 
 1. [Download XInputInjector](https://github.com/r57zone/X360Advance/releases/) and extract.
-2. Unpack the contents of the `SNES.USB.Controller.XInput.Libraries.zip` archive into the `Libraries` folder.
+2. Unpack the contents of the `SNES-USB-Controller-Libraries.zip` archive into the `Libraries` folder.
 3. Launch XInputInjector and select the required application.
 
 ## Download

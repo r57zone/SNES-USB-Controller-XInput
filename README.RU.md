@@ -26,7 +26,7 @@ Xbox эмулятор для [SNES USB контроллера](http://alii.pub/6
 Вместо приложения можно также использовать библиотеки для XInputInjector-а:
 
 1. [Загрузить XInput Injector](https://github.com/r57zone/X360Advance/releases/) и распаковать.
-2. Распаковать в папку `Libraries` содержимое архива `SNES.USB.Controller.XInput.Libraries.zip`.
+2. Распаковать в папку `Libraries` содержимое архива `SNES-USB-Controller-Libraries.zip`.
 3. Запустить XInput Injector и выбрать нужное приложение.
 
 ## Загрузка
