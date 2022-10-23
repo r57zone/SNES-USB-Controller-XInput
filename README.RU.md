@@ -15,7 +15,7 @@ Xbox эмулятор для [SNES USB контроллера](http://alii.pub/6
 
 Режимы по умолчанию можно настроить в конфигурационном файле `Config.ini`.
 
-## Настройка (приложение)
+## Настройка
 1. Установить [ViGEmBus](https://github.com/ViGEm/ViGEmBus/releases).
 2. Установить Microsoft Visual C++ Redistributable 2017 или новее.
 3. Подключить контроллер.
